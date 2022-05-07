@@ -1,2 +1,3 @@
-# ck2-trait-builder
+# CK2 Ruler Designer  
+
 browser version of Crusader Kings 2 ruler designer
