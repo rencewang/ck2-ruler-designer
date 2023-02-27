@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+}
+
+.trait-selector {
+  width: 30%;
+  margin-right: 10%;
+}
+
+.card-canvas {
+  width: 60%;
+}
+
+canvas {
+  border: 2px solid black;
+}
